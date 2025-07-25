@@ -45,6 +45,8 @@ SCREEN SHOTS
 This project is licensed under the MIT License.
 
 🚀 [Live Demo](https://yourinv.netlify.app/)
+user ID: inventory@gmail.com
+password: inventory
 
 🙌 Acknowledgments
 React Docs
